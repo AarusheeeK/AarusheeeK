@@ -1,4 +1,4 @@
-[![MasterHead](https://www.whatsappimages.in/wp-content/uploads/2022/01/Free-tom-and-jerry-dp-Wallpaper.jpg")
+[![MasterHead]("https://www.whatsappimages.in/wp-content/uploads/2022/01/HD-New-tom-and-jerry-dp-Pics-Images.jpg")
 
 <h1 align="center">Hi 👋, I'm Aarushi Khurana</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
